@@ -20,7 +20,7 @@ This project is based on a set of SQL exercises provided by my lecturer. It demo
 - Used JOIN operations to combine tables and retrieve meaningful data  
 - Handled NULL values and ensured data integrity  
 
- #Tools Used
+ ## Tools Used
 - PostgreSQL (pgAdmin)
 
 # Purpose
